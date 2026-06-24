@@ -1,8 +1,6 @@
 
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A1628,100:0E75B6&height=200&section=header&text=Hi%20👋,%20I'm%20ArigelaNagaMallika&fontSize=48&fontColor=58A6FF&animation=fadeIn&desc=%3E%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast%20%7C&descSize=18&descAlignY=72&descColor=ffffff)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0A1628,100:0E75B6&amp;height=200&amp;section=header&amp;text=Hi%20👋,%20I'm%20ArigelaNagaMallika&amp;fontSize=48&amp;fontColor=58A6FF&amp;animation=fadeIn&amp;desc=%3E%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast%20%7C&amp;descSize=18&amp;descAlignY=72&amp;descColor=ffffff" alt="header" />
 </div>
 
 <div align="center">
@@ -17,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamallikaarigela@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&amp;style=for-the-badge&amp;color=0E75B6&amp;label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -197,18 +195,18 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🎓%20Degree-B.Tech-58A6FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎓%20Degree-B.Tech-58A6FF?style=for-the-badge&amp;labelColor=0D1117" alt="Degree"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📊%20CGPA-7.8-1976D2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📊%20CGPA-7.8-1976D2?style=for-the-badge&amp;labelColor=0D1117" alt="CGPA"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/💼%20Internships-3-1565C0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💼%20Internships-3-1565C0?style=for-the-badge&amp;labelColor=0D1117" alt="Internships"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🚀%20Projects-2+-0E75B6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🚀%20Projects-2+-0E75B6?style=for-the-badge&amp;labelColor=0D1117" alt="Projects"/>
 </td>
 </tr>
 </table>
@@ -220,9 +218,7 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=your-github-username&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9"/>
-
+  <img src="https://streak-stats.demolab.com/?user=your-github-username&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=58A6FF&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
@@ -237,8 +233,6 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A2A4A,100:0E75B6&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Let's%20connect%20and%20build%20something%20amazing%20together!&fontSize=16&fontColor=58A6FF&animation=twinkling&fontAlignY=65"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0A2A4A,100:0E75B6&amp;height=130&amp;section=footer&amp;text=Thanks%20for%20visiting!%20⭐%20Let's%20connect%20and%20build%20something%20amazing%20together!&amp;fontSize=16&amp;fontColor=58A6FF&amp;animation=twinkling&amp;fontAlignY=65" alt="footer" />
 </div>
 
