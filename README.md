@@ -273,24 +273,6 @@ Designed responsive landing pages using HTML, CSS, JavaScript. Created clean and
 
 </div>
 
----
-
-## 🔥 GitHub Streak & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naga-Mallika-Arigela&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF&icon_color=4A90E2)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-Mallika-Arigela&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF)
-
-</div>
-
----
-
 ## 🎯 Career Goals
 
 <div align="center">
