@@ -1,21 +1,22 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0A1628,100:0E75B6&amp;height=200&amp;section=header&amp;text=Hi%20👋,%20I'm%20ArigelaNagaMallika&amp;fontSize=48&amp;fontColor=58A6FF&amp;animation=fadeIn&amp;desc=%3E%20Software%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Enthusiast%20%7C&amp;descSize=18&amp;descAlignY=72&amp;descColor=ffffff" alt="header" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:4A90E2,100:00BFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Naga%20Mallika%20Arigela&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=%3E%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Web%20Developer%20%7C&descSize=18&descAlignY=72&descColor=ffffff)
+
 </div>
 
 <div align="center">
 
-📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 nagamallikaarigela@gmail.com &nbsp;|&nbsp; 🎓 B.Tech Graduate (2025)
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 nagamallikaarigela@gmail.com &nbsp;|&nbsp; 🎓 B.Tech AI & Data Science (2025)
 
-**🟢 Open to Work | Ready to build impactful software solutions 🚀**
+**🟢 Open to Work | Let's build intelligent solutions! 🚀**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallika-arigela-64220729a/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamallikaarigela@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](#)
-<img src="https://komarev.com/ghpvc/?username=your-github-username&amp;style=for-the-badge&amp;color=0E75B6&amp;label=PROFILE+VIEWS" alt="profile views"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naga-Mallika-Arigela)
+<img src="https://komarev.com/ghpvc/?username=Naga-Mallika-Arigela&style=for-the-badge&color=87CEEB&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -27,12 +28,13 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 &nbsp; Motivated and detail-oriented **Computer Science graduate** with a strong foundation in **Python, SQL, web technologies, and software development**.
-- 💡 &nbsp; Passionate about building efficient, practical, and user-friendly applications that solve real-world problems.
-- 🤖 &nbsp; Interested in **Artificial Intelligence, Deep Learning, and full-stack web development**.
-- 🌱 &nbsp; Always eager to learn new technologies and improve through hands-on projects and internships.
-- 🚀 &nbsp; Currently looking for an **entry-level software opportunity** to apply my skills and grow as a developer.
+- 💻 &nbsp; Passionate about building intelligent applications using **Python, Flask, Deep Learning** and modern web technologies.
+- 💡 &nbsp; I love turning ideas into scalable, efficient and user-friendly solutions.
+- 🤖 &nbsp; Currently exploring **Generative AI, Advanced Python** and Cloud Technologies.
+- 🎧 &nbsp; **Vibe Coder** — Music on. Code on. Flow state activated.
+- 🚀 &nbsp; Always learning, always building, always improving.
 
+</td>
 </td>
 </tr>
 </table>
@@ -43,36 +45,33 @@
 
 **`</> Languages`**
 
-![Python](https://img.shields.io/badge/Python-0E75B6?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1976D2?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1565C0?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4A90E2?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00BFFF?style=for-the-badge&logo=database&logoColor=white)
 
 **`🌐 Web Development`**
 
-![HTML5](https://img.shields.io/badge/HTML5-0E75B6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1976D2?style=for-the-badge&logo=javascript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1E88E5?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4A90E2?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00BFFF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-87CEEB?style=for-the-badge&logo=flask&logoColor=white)
 
-**`🗄️ Databases`**
+**`🗄️ Databases & Backend`**
 
-![MySQL](https://img.shields.io/badge/MySQL-0E75B6?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1565C0?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4A90E2?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00BFFF?style=for-the-badge&logo=sqlite&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-87CEEB?style=for-the-badge&logo=razorpay&logoColor=white)
 
-**`🤖 AI / ML`**
+**`🔧 Tools & AI/ML`**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D47A1?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-0E75B6?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-1565C0?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1976D2?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**`🔧 Tools & Others`**
-
-![Git](https://img.shields.io/badge/Git-0E75B6?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1976D2?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1E88E5?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D47A1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-87CEEB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-00BFFF?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-87CEEB?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4A90E2?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -82,44 +81,52 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🌿 Plant Species Identification using Deep Learning
+### 🛒 SmartCart E-Commerce
 
-Research-based AI project focused on identifying plant species using deep learning and image classification techniques.
+A full-featured e-commerce platform with product management, cart system, order tracking, and payment integration.
 
-![Python](https://img.shields.io/badge/Python-0E75B6?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1565C0?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-1976D2?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-1E88E5?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4A90E2?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-00BFFF?style=flat-square&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-87CEEB?style=flat-square&logo=bootstrap&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-4A90E2?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0E75B6?style=for-the-badge&logo=github&logoColor=white)](#)
+**Features:** Product Management • Shopping Cart • Order Tracking • Payment Gateway • Admin Dashboard
 
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🛒 SmartCart – E-Commerce Web App
-
-A full-stack e-commerce web application with product management, cart system, order tracking, and payment integration.
-
-![Python](https://img.shields.io/badge/Python-0E75B6?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1565C0?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1976D2?style=flat-square&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1E88E5?style=flat-square&logo=bootstrap&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-0E75B6?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View%20Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naga-Mallika-Arigela)
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 💻 Full Stack & Web Development Projects
+### 🌿 Plant Species AI
 
-Hands-on projects built during internships and training using Python, HTML, CSS, JavaScript, Flask, and MySQL.
+Deep learning model for automated plant species identification using computer vision and neural networks.
 
-![Python](https://img.shields.io/badge/Python-0E75B6?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-1565C0?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1976D2?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E88E5?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-87CEEB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4A90E2?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-00BFFF?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-87CEEB?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4A90E2?style=flat-square&logo=pandas&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-0E75B6?style=for-the-badge&logo=github&logoColor=white)](#)
+**Features:** CNN Models • Image Preprocessing • Dataset Optimization • Model Accuracy • Scalable Architecture
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naga-Mallika-Arigela)
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 💼 Web Development
+
+Collection of responsive web projects including landing pages and UI components with modern design principles.
+
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4A90E2?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00BFFF?style=flat-square&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-87CEEB?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Features:** Responsive Design • Clean UI • Modern Layouts • User-Friendly Interface
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-87CEEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naga-Mallika-Arigela)
 
 </td>
 </tr>
@@ -127,51 +134,44 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 
 ---
 
-## 💼 Internship Experience
+## 💼 Professional Experience
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🧑‍💻 Python Full Stack Trainee  
-**Codegnan IT Solutions**  
-📅 Dec 2025 – May 2026
+### 🐍 Python Full Stack Trainee
+**CodeGnan IT Solutions**
+*Dec 2025 – May 2026*
 
-- Trained in **Python full-stack development** with hands-on experience in web application development.
-- Worked with **Python, HTML, CSS, and JavaScript** to build practical web solutions.
-- Focused on creating scalable, user-friendly, and secure applications.
+Full-stack web development with Python, HTML, CSS, and JavaScript. Building scalable and secure web solutions.
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web Developer Intern  
-**Octa Net Services**  
-📅 Jun 2024 – Jul 2024
-
-- Designed and developed a **responsive landing page** using HTML, CSS, and JavaScript.
-- Built a clean and user-friendly interface with a responsive layout.
+![Python](https://img.shields.io/badge/Python-87CEEB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4A90E2?style=flat-square&logo=flask&logoColor=white)
 
 </td>
-</tr>
+<td width="33%" valign="top" align="center">
 
-<tr>
-<td width="50%" valign="top">
+### 🔐 Python Intern
+**Cipher Byte Technologies**
+*Jun 2024 – Jul 2024*
 
-### 🐍 Python Intern  
-**Cipher Byte Technologies**  
-📅 Jun 2024 – Jul 2024
+Developed console-based game using Python. Applied conditional logic, randomization, and user input handling concepts.
 
-- Developed a **console-based Rock Paper Scissors game** using Python.
-- Applied **conditional logic and randomization** concepts in a real coding task.
+![Python](https://img.shields.io/badge/Python-87CEEB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 📚 Certifications
+### 🌐 Web Developer Intern
+**Octa Net Services**
+*Jun 2024 – Jul 2024*
 
-- Full Stack Python – Codegnan
-- Python – HackerRank
-- Web Developer – Octa Net Services
+Designed responsive landing pages using HTML, CSS, JavaScript. Created clean and user-friendly interfaces.
+
+![HTML5](https://img.shields.io/badge/HTML5-87CEEB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4A90E2?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00BFFF?style=flat-square&logo=javascript&logoColor=white)
 
 </td>
 </tr>
@@ -181,10 +181,70 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 
 ## 🎓 Education
 
-### Bachelor of Technology in Artificial Intelligence and Data Science  
-**Malineni Lakshmaiah Women’s Engineering College, Guntur, Andhra Pradesh**  
-📅 2021 – 2025  
-**CGPA:** 7.8
+<div align="center">
+
+| 🎯 Degree | 🏫 Institution | 📊 CGPA | 📅 Period |
+|-----------|---|---------|---------|
+| **B.Tech in Artificial Intelligence & Data Science** | Malineni Lakshmaiah Women's Engineering College, Guntur, Andhra Pradesh | **7.8/10** | 2021 - 2025 |
+
+</div>
+
+---
+
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/✅%20Full%20Stack%20Python-CodeGnan-87CEEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✅%20Python%20Programming-HackerRank-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/✅%20Web%20Developer-Octa%20Net%20Services-00BFFF?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🐍%20Advanced%20Python-Design%20Patterns%20%7C%20Async%20%7C%20Optimization-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🤖%20Generative%20AI%20%26%20LLMs-Cutting%20Edge%20AI%20Models-00BFFF?style=for-the-badge&labelColor=87CEEB"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/📱%20Modern%20Web%20Frameworks-Latest%20Technologies-4A90E2?style=for-the-badge&labelColor=00BFFF"/>
+
+</div>
+
+---
+
+## 🤝 Open To Collaborate On
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌐%20Open%20Source%20Projects-87CEEB?style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖%20AI%2FML%20Research-4A90E2?style=for-the-badge"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/💼%20Freelance%20Web%20Dev-00BFFF?style=for-the-badge"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀%20Startup%20Ideas-87CEEB?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -195,18 +255,18 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🎓%20Degree-B.Tech-58A6FF?style=for-the-badge&amp;labelColor=0D1117" alt="Degree"/>
+<img src="https://img.shields.io/badge/💻%20Repositories-Multiple-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/📊%20CGPA-7.8-1976D2?style=for-the-badge&amp;labelColor=0D1117" alt="CGPA"/>
+<img src="https://img.shields.io/badge/🔧%20Technologies-15%2B-00BFFF?style=for-the-badge&labelColor=87CEEB"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/💼%20Internships-3-1565C0?style=for-the-badge&amp;labelColor=0D1117" alt="Internships"/>
+<img src="https://img.shields.io/badge/📚%20Projects-5%2B-4A90E2?style=for-the-badge&labelColor=00BFFF"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🚀%20Projects-2+-0E75B6?style=for-the-badge&amp;labelColor=0D1117" alt="Projects"/>
+<img src="https://img.shields.io/badge/🎯%20Certifications-3%2B-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
 </td>
 </tr>
 </table>
@@ -215,24 +275,66 @@ Hands-on projects built during internships and training using Python, HTML, CSS,
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=58A6FF&amp;ring=58A6FF&amp;fire=79C0FF&amp;currStreakLabel=58A6FF&amp;sideLabels=58A6FF&amp;dates=C9D1D9" alt="GitHub Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naga-Mallika-Arigela&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF&icon_color=4A90E2)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naga-Mallika-Arigela&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF)
+
 </div>
 
 ---
 
-## 📌 Current Focus
+## 🎯 Career Goals
 
-- 🌱 Improving full-stack development skills with **Python + Flask**
-- 🤖 Exploring **AI, Deep Learning, and practical ML projects**
-- 🧠 Strengthening **problem-solving, SQL, and software engineering fundamentals**
-- 💼 Looking for opportunities as a **Python Developer / Software Developer / Web Developer**
+<div align="center">
+
+<img src="https://img.shields.io/badge/✨%20Full%20Time%20Junior%20Developer%20Role-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚀%20Build%20Impactful%20AI%2FML%20Projects-00BFFF?style=for-the-badge&labelColor=87CEEB"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📚%20Master%20Generative%20AI%20%26%20Advanced%20Python-4A90E2?style=for-the-badge&labelColor=00BFFF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🌟%20Contribute%20to%20Open%20Source-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:0A2A4A,100:0E75B6&amp;height=130&amp;section=footer&amp;text=Thanks%20for%20visiting!%20⭐%20Let's%20connect%20and%20build%20something%20amazing%20together!&amp;fontSize=16&amp;fontColor=58A6FF&amp;animation=twinkling&amp;fontAlignY=65" alt="footer" />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:4A90E2,100:00BFFF&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Let's%20connect%20and%20build%20something%20amazing%20together!&fontSize=16&fontColor=FFFFFF&animation=twinkling&fontAlignY=65)
+
 </div>
 
+---
+
+<div align="center">
+
+<h3>📞 Let's Connect!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallika-arigela-64220729a/)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagamallikaarigela@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naga-Mallika-Arigela)
+
+<br/>
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
+
+*"Code is poetry written for machines, but read by humans."*
+
+**Last Updated: June 2024**
+
+</div>
