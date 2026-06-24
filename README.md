@@ -1,14 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:4A90E2,100:00BFFF&height=200&section=header&text=Hi%20👋,%20I'm%20Naga%20Mallika%20Arigela&fontSize=48&fontColor=FFFFFF&animation=fadeIn&desc=%3E%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Web%20Developer%20%7C&descSize=18&descAlignY=72&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A1628,100:0E75B6&height=200&section=header&text=Hi%20👋,%20I'm%20Naga%20Mallika%20Arigela&fontSize=48&fontColor=58A6FF&animation=fadeIn&desc=%3E%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Web%20Developer%20%7C&descSize=18&descAlignY=72&descColor=ffffff)
 
 </div>
 
 <div align="center">
 
-📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 nagamallikaarigela@gmail.com &nbsp;|&nbsp; 🎓 B.Tech AI & Data Science (2025)
+📍 Hyderabad, Telangana &nbsp;|&nbsp; 📧 nagamallikaarigela@gmail.com &nbsp;|&nbsp; 🎓 B.Tech Graduate (2025)
 
-**🟢 Open to Work | Let's build intelligent solutions! 🚀**
+**🟢 Open to Work | Let's build something impactful! 🚀**
 
 <br/>
 
@@ -276,21 +276,13 @@ Designed responsive landing pages using HTML, CSS, JavaScript. Created clean and
 ## 🎯 Career Goals
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/✨%20Full%20Time%20Junior%20Developer%20Role-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/🚀%20Build%20Impactful%20AI%2FML%20Projects-00BFFF?style=for-the-badge&labelColor=87CEEB"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/📚%20Master%20Generative%20AI%20%26%20Advanced%20Python-4A90E2?style=for-the-badge&labelColor=00BFFF"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/🌟%20Contribute%20to%20Open%20Source-87CEEB?style=for-the-badge&labelColor=4A90E2"/>
-
 </div>
 
 ---
@@ -317,6 +309,5 @@ Designed responsive landing pages using HTML, CSS, JavaScript. Created clean and
 
 *"Code is poetry written for machines, but read by humans."*
 
-**Last Updated: June 2024**
 
 </div>
